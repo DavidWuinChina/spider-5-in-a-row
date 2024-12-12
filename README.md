@@ -1,7 +1,7 @@
 ﻿# spider-5-in-a-row
 1.py文件说明：
-MSDM5002FINALSTRATEGYbigBOSS.py是Player vs AI脚本（上交的第一个文件）
-MSDM5002FINALBATTLE.py是AI vs AI脚本（上交的第二个文件）
+MSDM5002FINALSTRATEGYbigBOSS.py是Player vs AI脚本（人机对战）
+MSDM5002FINALBATTLE.py是AI vs AI脚本（AI对战）
 MSDM5002FINALSAMPLE.py是AI vs AI中用于对战的傻瓜AI
 2.AI vs AI脚本使用说明
 1）将module_path改为本文件夹所在位置
